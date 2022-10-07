@@ -105,8 +105,6 @@ coding guidelines or other things you want people to follow should follow.
 ## FAQ
 You can optionally add a FAQ section about the project.
 
-##  Resources
-Add important resources here
 
 ##  Gallery
 Mobile Screen:
